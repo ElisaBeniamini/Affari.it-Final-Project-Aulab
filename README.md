@@ -1,5 +1,5 @@
-<p> Progetto Finale creato con i colleghi di Corso Aulab: Daniele Alato e Anna Saracino
-Ecommerce Affari.it con: </p>
+<p> Progetto Finale creato con i colleghi di Corso Aulab: Daniele Alato e Anna Saracino </p>
+<h2>Ecommerce Affari.it </h2>
   <ol>
         <li>Caricamento di un annuncio da parte di un utente loggato</li>
         <li>Visualizzazione pubblica degli annunci e del loro dettaglio</li>
